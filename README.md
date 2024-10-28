@@ -60,7 +60,7 @@ movie-review-website/
 
 
 ### Movie Search
-![Search](link-to-search-screenshot)
+![Search]([link-to-search-screenshot](https://anuragkumarthakur1.github.io/Movie-Review-web-site/))
 
 ## 🤝 Contributing
 
